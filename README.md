@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-responsive-lW2MNS6W4)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-responsive-lW2MNS6W4)
 - Live Site URL: [Live site](https://stats-preview-draconus.netlify.app/)
 
 
