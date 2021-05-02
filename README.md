@@ -18,8 +18,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live stite](https://stats-preview-draconus.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-responsive-lW2MNS6W4)
+- Live Site URL: [Live site](https://stats-preview-draconus.netlify.app/)
 
 
 
